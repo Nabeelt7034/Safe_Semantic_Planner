@@ -1,2 +1,7 @@
 .DS_Store
 .vscode/
+*.dSYM/
+*.dSYM/**
+*.o
+*.out
+safe_semantic _planner
